@@ -1,0 +1,8 @@
+{
+  "name": "Alek Design Build - BIM Academy",
+  "description": "A professional, automated lecturing platform for ArchiCAD, Tekla, and Twinmotion. Master the full BIM workflow from architectural modeling to structural engineering and high-end visualization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
